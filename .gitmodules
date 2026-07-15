@@ -3,4 +3,4 @@
 	url = https://github.com/GvGmVR/IxnelBackend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/MUKUNTHANMS007/Ixnel_Frontend.git
+	url = https://github.com/GvGmVR/IxnelFrontend.git
